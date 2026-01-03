@@ -1,0 +1,19 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+MOVEMENT_SPEED;Movement Speed;Placement speed;Bewegungsgeschwindigkeit;;Velocidad de movimiento;;;;;;;;;x
+EXPERIMENTALITY;Experimentality;Impr {\displaystyle Impr {\displaystyle Im;Unberechenbarkeit;;Imprevisibilidad;;;;;;;;;x
+CU_LIGHT_INFANTRY;Light Foot Troops;Infantaria1gre;Leichte Infanterie;;Infanter�a ligera;;;;;;;;;x
+CU_HEAVY_INFANTRY;Heavy Foot Troops;Heavy Infantry;Schwere Infanterie;;Infanter�a pesada;;;;;;;;;x
+CU_CAVALRY;Mounted Troops;Cavalry;Kavallerie;;Caballer�a;;;;;;;;;x
+MORALE_DEFENCE;Morale Defence;Maintaining morale;Verteidigungsmoral;;Moral defensa;;;;;;;;;x
+DAMAGE;Damage;D (g) (ts);Schaden;;Da�o;;;;;;;;;x
+PURSUIT;Pursuit;Tracking;Verfolgung;;Persecuci�n;;;;;;;;;x
+RETREAT;Retreat;Retirement;R�ckzug;;Retirada;;;;;;;;;x
+MARTIAL_INFLUENCE;Martial Influence;Martial Influence;Einfluss der Kriegskunst;;Influencia marcial;;;;;;;;;x
+FLANKING;Flanking;Non-flank attack;Flankenangriff;;Flanqueo;;;;;;;;;x
+CENTER;Leading the Center;Me about the center;F�hrung im Zentrum;;Dirigiendo el centro;;;;;;;;;x
+DEFENCE;Defence;D/Fense;Verteidigung;;Defensa;;;;;;;;;x
+CANNOT_PLAY_MUSLIM_WITHOUT_DLC;You cannot play Muslim without The Sword of Islam DLC;You can't play a Muslim lord without the 'Sword of Islam' DLC;Das Spielen als Muslim ist ohne das DLC �YSword of Islam�! nicht m�glich;;No puedes jugar como musulm�n sin el DLC The Sword of Islam;;;;;;;;;x
+NOT_ALLOWED_MUSLIM;Not allowed to play �YMuslim�! without The Sword of Islam DLC!;It is not permitted to play the Muslim lord Yun without the 'Sword of Islam' DLC;Spielen als �YMuslim�! ist ohne das DLC �YSword of Islam�! nicht erlaubt!;;�No se te permite jugar como �Ymusulm�n�! sin el DLC The Sword of Islam!;;;;;;;;;x
+NOT_ALLOWED_MUSLIM_MP;�Y$PLAYER$�! not allowed to play �YMuslim�! without The Sword of Islam DLC;It is not allowed to play the Muslim lord Yun without the 'Sword of Islam' DLC;�Y$PLAYER$�! ist nicht erlaubt als �YMuslim�! ohne das DLC �YSword of Islam�! zu spielen;;�Y$PLAYER$�! no puede jugar como �Ymusulm�n�! sin el DLC The Sword of Islam!;;;;;;;;;x
+RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Muslims are not playable without The Sword of Islam DLC;Muslims are not playable without the 'Sword of Islam' DLC;Muslime sind ohne das DLC �YSword of Islam�! nicht spielbar;;No se puede jugar con musulmanes sin el DLC The Sword of Islam;;;;;;;;;x
+MUST_SELECT_PLAYER;Must select a Character to play!;You must select a character to play;Sie m�ssen einen Charakter ausw�hlen um zu spielen!;;�Debes elegir un personaje para jugar!;;;;;;;;;x
