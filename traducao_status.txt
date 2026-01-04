@@ -1,0 +1,51 @@
+======================================
+CONTROLE DE TRADUÇÃO - PT-BR
+======================================
+
+Status da tradução dos arquivos CSV de localização
+
+ARQUIVOS VAZIOS (não necessitam tradução):
+- PATCH - RedKing.csv — VAZIO
+- TODO.csv — VAZIO
+- z_Dan.csv — VAZIO
+- z_Daniel.csv — VAZIO
+- z_Ewan.csv — VAZIO
+- z_Joachim.csv — VAZIO
+- z_Joachim_Map.csv — VAZIO
+- z_Joachim_Patch.csv — VAZIO
+- z_Johan.csv — VAZIO
+- z_Linnea.csv — VAZIO
+- z_Milla.csv — VAZIO
+- z_Milla_Patch.csv — VAZIO
+- z_Pedro.csv — VAZIO
+- z_arthur.csv — VAZIO
+- z_bianca.csv — VAZIO
+- z_custom.csv — APENAS CABEÇALHO
+- z_emil.csv — VAZIO
+- z_emma.csv — VAZIO
+- z_erik.csv — VAZIO
+- z_flavio.csv — VAZIO
+- z_flavio_patch.csv — VAZIO
+- z_henrik_f.csv — VAZIO
+- z_joel_patch.csv — VAZIO
+- z_johan_rk.csv — VAZIO
+- z_launcher.csv — VAZIO
+- z_magne.csv — VAZIO
+- z_magne_patch.csv — VAZIO
+- z_matthew.csv — VAZIO
+- z_ola.csv — VAZIO
+- z_proofreading_temp.csv — VAZIO
+- z_sara.csv — VAZIO
+- z_true_alex.csv — VAZIO
+
+ARQUIVOS COM CONTEÚDO (ordem de tradução):
+1. z_notranslate.csv — AGUARDANDO
+2. text9.csv — AGUARDANDO
+3. v1_101.csv — AGUARDANDO
+4. v3_misc.csv — AGUARDANDO
+5. v1_07b.csv — AGUARDANDO
+6. customizable_localisation/*.txt — AGUARDANDO
+
+======================================
+Última atualização: Início da tradução
+======================================
