@@ -76,7 +76,7 @@ PROV1185;Kabul;Kaboul;Kabul;;;;;;;;;;;x
 PROV1186;Chach;;Chach;;;;;;;;;;;x
 PROV1187;Kunduz;;Kunduz;;;;;;;;;;;x
 PROV1188;Khuttal;;Khuttal;;;;;;;;;;;x
-PROV1189;Bamian;Bâmiyân;Bamian;;;;;;;;;;;x #Nandana castle and Peshawar city go here
+PROV1189;Bamian;Bï¿½miyï¿½n;Bamian;;;;;;;;;;;x #Nandana castle and Peshawar city go here
 PROV1190;Gurjaratra;Gurjaratra;Gurjaratra;;;;;;;;;;;x
 PROV1191;Bannu;;Bannu;;;;;;;;;;;x
 PROV1192;Bhera;;Bhera;;;;;;;;;;;x
@@ -284,7 +284,7 @@ PROV1433;Kazakh;;Kazakh;;;;;;;;;;;x
 PROV1434;Balkhash;;Balkhash;;;;;;;;;;;x
 PROV1436;Lakomelza;;Lakomelza;;;;;;;;;;;x
 PROV1437;Tigrinya;;Tigrinya;;;;;;;;;;;x
-PROV908;Rub' al Khali Desert;Désert Rub al-Khali;Rub al-Khali Wüste;;;;;;;;;;;x
+PROV908;Rub' al Khali Desert;Dï¿½sert Rub al-Khali;Rub al-Khali Wï¿½ste;;;;;;;;;;;x
 d_semien;Semien;Simien;Semien;;Semien;;;;;;;;;x
 d_semien_adj;Semien;simienne;Semienisch;;Semien;;;;;;;;;x
 c_semien;Semien;Simien;Semien;;Semien;;;;;;;;;x
@@ -545,7 +545,7 @@ b_ural;Ural;Oural;Ural;;;;;;;;;;;x
 b_tobol;Tobol;;Tobol;;;;;;;;;;;x
 d_yugra;Yugra;Yugra;Yugra;;;;;;;;;;;x
 d_yugra_adj;Yugran;yugrane;Yugranisch;;;;;;;;;;;x
-b_pecheneg;Pecheneg;Petchénègue;Pecheneg;;;;;;;;;;;x
+b_pecheneg;Pecheneg;Petchï¿½nï¿½gue;Pecheneg;;;;;;;;;;;x
 b_sangin;Sangin;;Sangin;;;;;;;;;;;x
 b_gereshk;Gereshk;;Gereshk;;;;;;;;;;;x
 b_chaman;Chaman;;Chaman;;;;;;;;;;;x
@@ -674,7 +674,7 @@ b_karagandy;Karagandy;;Karagandy;;;;;;;;;;;x
 d_kirghiz;Kirghiz;Kirghiz;Kirghiz;;;;;;;;;;;x
 d_kirghiz_adj;Kirghiz;kirghiz;Kirghizisch;;;;;;;;;;;x
 b_kirghiz;Kirghiz;;Kirghiz;;;;;;;;;;;x
-b_altay;Altay;Altaï;Altay;;;;;;;;;;;x
+b_altay;Altay;Altaï¿½;Altay;;;;;;;;;;;x
 b_telengit;Telengit;;Telengit;;;;;;;;;;;x
 b_tele;Tele;;Tele;;;;;;;;;;;x
 b_osinniki;Osinniki;;Osinniki;;;;;;;;;;;x
@@ -755,7 +755,7 @@ d_tirabhukti;Tirabhukti;Tirabhukti;Tirabhukti;;;;;;;;;;;x
 d_kasi;Kasi;Kasi;Kasi;;;;;;;;;;;x
 d_jharkand;Jharkand;Jharkand;Jharkand;;;;;;;;;;;x
 d_magadha;Magadha;Magadha;Magadha;;;;;;;;;;;x
-e_deccan;Deccan Empire;Empire Deccan;Deccanreich;;Imperio de Decán;;;;;;;;;x
+e_deccan;Deccan Empire;Empire Deccan;Deccanreich;;Imperio de Decï¿½n;;;;;;;;;x
 e_deccan_adj;Deccan;deccan;Deccanisch;;;;;;;;;;;x
 k_maharastra;Maharastra;Maharastra;Maharastra;;;;;;;;;;;x
 d_vidharba;Vidharba;Vidharba;Vidharba;;;;;;;;;;;x
@@ -2615,7 +2615,7 @@ b_caetani;Caetani;;Caetani;;;;;;;;;;;x
 b_bardewik;Bardewik;;Bardewik;;;;;;;;;;;x
 b_vorrade;Vorrade;;Vorrade;;;;;;;;;;;x
 b_warendorp;Warendorp;;Warendorp;;;;;;;;;;;x
-b_pat_luneburg;Lüneburg;;Lüneburg;;;;;;;;;;;x
+b_pat_luneburg;Lï¿½neburg;;Lï¿½neburg;;;;;;;;;;;x
 b_wittenborg;Wittenborg;;Wittenborg;;;;;;;;;;;x
 b_stenkyrka;Stenkyrka;;Stenkyrka;;;;;;;;;;;x
 b_guldsmed;Guldsmed;;Guldsmed;;;;;;;;;;;x
